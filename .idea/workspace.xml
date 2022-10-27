@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cbf246d-dba3-4467-a98d-ac52fbf39f5e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/JavaStudy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers/Lv_0/두수의곱/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers/Lv_0/몫구하기/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/Lv_0/각도기/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/Lv_0/나이출력/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/Lv_0/두수의차/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/Lv_0/두수의합/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/Lv_0/숫자비교하기/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -66,7 +64,7 @@
       <recent name="Programmers" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Programmers.Lv_0.각도기.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programmers.Lv_0.몫구하기.Main" />
       <module name="JavaStudy" />
@@ -80,8 +78,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Programmers.Lv_0.나이출력.Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.Lv_0.나이출력.Main" />
+      <module name="JavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programmers.Lv_0.나이출력.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programmers.Lv_0.나이출력.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.Lv_0.나이출력.Main" />
+      <module name="JavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programmers.Lv_0.나이출력.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programmers.Lv_0.각도기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.Lv_0.각도기.Main" />
+      <module name="JavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programmers.Lv_0.각도기.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Programmers.Lv_0.각도기.Main" />
+        <item itemvalue="Application.Programmers.Lv_0.나이출력.Main (1)" />
+        <item itemvalue="Application.Programmers.Lv_0.나이출력.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
